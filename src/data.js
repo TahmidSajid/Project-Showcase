@@ -22,7 +22,6 @@ export const projects = [
     tags: ["Laravel", "PHP", "MySQL"],
     emoji: "📱",
     gradient: "linear-gradient(135deg, #667eea, #764ba2)",
-    status: "live",
     liveUrl: "https://codecanyon.net/item/payload-airtime-data-bundles-gift-cards-and-vtu-full-solution/56026497?s_rank=17",
   },
   {
@@ -33,7 +32,6 @@ export const projects = [
     tags: ["Laravel", "PHP", "MySQL"],
     emoji: "🚗",
     gradient: "linear-gradient(135deg, #f093fb, #f5576c)",
-    status: "live",
     liveUrl: "https://codecanyon.net/item/carbo-car-rental-booking-management-full-solution/57288398?s_rank=12",
   },
   {
@@ -44,7 +42,6 @@ export const projects = [
     tags: ["Laravel", "PHP", "MySQL"],
     emoji: "💳",
     gradient: "linear-gradient(135deg, #4facfe, #00f2fe)",
-    status: "completed",
     liveUrl: "https://codecanyon.net/item/mastcard-virtual-card-issuing-saas-full-solution/61802316?s_rank=1",
   },
   {
@@ -55,7 +52,6 @@ export const projects = [
     tags: ["Laravel", "PHP", "MySQL"],
     emoji: "🤖",
     gradient: "linear-gradient(135deg, #43e97b, #38f9d7)",
-    status: "live",
     liveUrl: "https://codecanyon.net/item/adbotpro-chatgpt-business-platform-website-androidios-app-admin-panel/45299173?s_rank=1",
   },
   {
@@ -66,7 +62,6 @@ export const projects = [
     tags: ["Laravel", "PHP", "MySQL"],
     emoji: "🎮",
     gradient: "linear-gradient(135deg, #fa709a, #fee140)",
-    status: "completed",
     liveUrl: "https://codecanyon.net/item/gameshop-game-topup-diamond-and-coin-selling-business-platform/48224092?s_rank=1",
   },
 ];
